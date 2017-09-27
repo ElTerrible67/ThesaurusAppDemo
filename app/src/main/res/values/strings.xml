@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThesaurusAppDemo</string>
+    <string name="welcome_to_wordosaurus">Welcome to Wordosaurus</string>
+    <string name="please_enter_a_word">Please Enter a Word</string>
+    <string name="find_word">Find Word</string>
+    <string name="big_huge_thesaurus">\'Big Huge Thesaurus\'</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="antonyms">Antonyms</string>
+    <string name="related_terms">Related terms</string>
+    <string name="get_word">Get Word</string>
+    <string name="cancel">Cancel</string>
+</resources>
